@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sankranthi v s a santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sankranthi v s a santosh" height="30" width="40" /></a>
-<a href="https://twitter.com/@sankranti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sankranti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amruth santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruth santosh" height="30" width="40" /></a>
+<a href="https://dev.to/sankranthi_v_s_a_santosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sankranthi v s a santosh" height="30" width="40" /></a>
+<a href="https://twitter.com/@SankrantiA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sankranti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aamruth-santosh-9aaa12212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruth santosh" height="30" width="40" /></a>
 <a href="https://kaggle.com/santosh sankranthi v s a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="santosh sankranthi v s a" height="30" width="40" /></a>
 <a href="https://instagram.com/amruthsantosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amruthsantosh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@santoshsankranthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@santoshsankranthi" height="30" width="40" /></a>
