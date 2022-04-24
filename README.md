@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sankranthi v s a santosh</h1>
 <h3 align="center">I'm passionate about cloud and DevOps & android development</h3>
-<img align="right" alt = "Coding" width="400" scr ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt = "Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/@sankranti" target="blank"><img src="https://img.shields.io/twitter/follow/@sankranti?logo=twitter&style=for-the-badge" alt="@sankranti" /></a> </p>
 
