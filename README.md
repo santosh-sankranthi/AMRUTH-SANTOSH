@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/@SankrantiA" target="blank"><img src="https://img.shields.io/twitter/follow/@sankranti?logo=twitter&style=for-the-badge" alt="@sankranti" /></a> </p>
 
-- 🌱 I’m currently learning **GCP, Kubernetes, kubernetes & DevOps.**
+- 🌱 I’m currently learning **GCP, Kubernetes and other DevOps tools and ML.**
 
 - 💬 Ask me about **problem solving, Linux, Unix**
 
